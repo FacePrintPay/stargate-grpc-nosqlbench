@@ -16,3 +16,4 @@ bin/**
 **/generated
 **/.DS_Store
 .github/workflows/release.yml
+docsys/src/main/node/docsys/antlr/CqlLexer.js
